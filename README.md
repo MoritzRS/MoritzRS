@@ -60,6 +60,9 @@ Unfortunately I rarely deem them worthy of sharing but here is a quick overview:
 - Gen-AI Based Exhibition Demos (Work, 2024)
 - Test Automation for 3D Spaces (Work, 2024)
 - Note Analysis Tool (Personal, 2024)
+- Markdown Compiler Extensions (Personal, 2024)
+- Remote Control for Telepresence Robot (Work, 2024)
+- 3D Mesh Analysis Tool (Work, 2024)
 
 </details>
 
