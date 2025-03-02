@@ -2,13 +2,14 @@
 
 ## About Me
 
-I'm a **Software Engineer / Web Developer** currently working at [rooom AG](https://www.rooom.com).
+I'm a **Software Engineer / Web Developer** with a passion for solving problems and building things.
 With over 3 years of experience in web development, I've already had the opportunity to work on a wide range of projects across frontend and backend.
-My job involves analyzing complex problems and building tools that help streamline processes for our software department as well as conceptualizing and building products.
+My Expertise lies in analyzing challenges, designing tools that streamline processes and conceptualizing products.
+I am always eager to learn new things and improve my skills.
 
 ### Professional Experience
 
-- **Current Role:** Software Engineer / Web Developer at [rooom AG](https://www.rooom.com)
+- **Most Recent Role:** Software Engineer / Web Developer at [rooom AG](https://www.rooom.com)
 - **Past Experience:** Short stint at Telekom MMS, primarily focused on web technologies and user tracking.
 - **Internships:** During my studies I worked at Intershop Communications AG
 - **Education:** Bachelor's degree in Computer Science from the University of Applied Sciences in Schmalkalden.
@@ -26,7 +27,7 @@ My job involves analyzing complex problems and building tools that help streamli
 
 ### Work Methodologies
 
-- **Team Workflow:** At work, we follow _Scrum_ practices.
+- **Team Workflow:** I have some experience with _Scrum_ practices in an agile team.
 - **Solo Workflow:** When I'm alone in project, I tend to use _Kanban_ to stay organized and get things done.
 - **Workshops & Meetings:** I have some minimal experience in organizing and leading workshops and meetings.
 - **Note-Taking:** I like to take notes. I use my _Supernote_ alongside _Obsidian_ to keep track of my thoughts and ideas.
